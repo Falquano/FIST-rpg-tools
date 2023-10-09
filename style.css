@@ -5,3 +5,9 @@ body {
     font-family: sans-serif;
     text-align: center;
 }
+
+#container {
+    padding: 40px;
+    border: solid 1px whitesmoke;
+    display: inline-block;
+}
